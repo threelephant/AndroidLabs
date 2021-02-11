@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Lab02</string>
+    <string name="app_name">8И7А Лунёв Пётр</string>
+    <string name="button_add">+</string>
+    <string name="button_sub">-</string>
+    <string name="button_multi">*</string>
+    <string name="button_divide">/</string>
+    <string name="button_pow">^</string>
+    <string name="edit_hint">Введите число</string>
+    <string name="operation_result">Результат операции: %1$f</string>
+    <string name="result_no">Здесь будет результат...</string>
 </resources>
