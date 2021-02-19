@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">8И7А Лунёв Пётр</string>
+    <string name="expression">Выражение</string>
+    <string name="write_answers">Верно: </string>
+    <string name="wrong_answers">Неверно: </string>
+    <string name="answer">Ответ</string>
+    <string name="answer_str">TextView</string>
+</resources>
